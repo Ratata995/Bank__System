@@ -1,0 +1,2 @@
+Relatório será gerado automaticamente pelo programa após a opção
+"Gerar relatório" ser selecionada no menu da conta.

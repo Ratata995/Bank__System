@@ -1,0 +1,34 @@
+src/
+├── main/
+│   └── java/
+│       └── bancario/
+│           ├── Main.java
+│           ├── controller/
+│           │   ├── BancoController.java
+│           │   ├── ContaController.java
+│           │   ├── EmprestimoController.java
+│           │   ├── CreditoController.java
+│           │   ├── InvestimentoController.java
+│           │   └── RelatorioController.java
+│           ├── model/
+│           │   ├── Pessoa.java
+│           │   ├── Cliente.java
+│           │   ├── Conta.java
+│           │   ├── ContaBancaria.java
+│           │   ├── OperacaoBancaria.java
+│           │   ├── Transacao.java
+│           │   ├── Emprestimo.java
+│           │   ├── Credito.java
+│           │   ├── Investimento.java
+│           │   └── Extrato.java
+│           ├── view/
+│           │   └── MenuConsole.java
+│           └── util/
+│               ├── ArquivoBinario.java
+│               ├── ArquivoTexto.java
+│               └── ValidadorCPF.java
+└── test/
+    └── java/
+        └── bancario/
+            ├── LoginTest.java
+            └── OperacoesTest.java
